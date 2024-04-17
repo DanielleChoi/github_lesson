@@ -1,8 +1,5 @@
 function setup() {
   createCanvas(400, 400);
-  console.log("Totoro");
-  console.log("Totoro is a forest creature from the movie My Neighbor Totoro. In one part of the movie, totoro is getting rained on so the main character gives totoro a umbrella.");
-
 }
 //body
  var xlocation = 355;
